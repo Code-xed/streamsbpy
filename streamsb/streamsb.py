@@ -197,13 +197,3 @@ class StreamSB:
 	def subs(self, url_1, label_1, url_2, label_2):
 		api = f"https://streamsb.net/embed-file_code.html?url_1={url_1}&sub_1={label_1}&caption_2={url_2}&sub_1={label_2}"
 		return self.exe((api, True))
-if __name__ == "__main__":
-	ob = StreamSB("12920t8yax675amnzycp1")
-	re = ob.list_files(title="Mr. Robot")
-	re, m = re["result"]["files"], []
-	for x in re:
-		m.append(x["title"])
-	print("Here----__-----_---_-----_-------------------")
-	print(m)
-	
-	
