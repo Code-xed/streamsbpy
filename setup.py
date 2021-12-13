@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="streamsb",
+    name="streamsb-py",
     version="0.0.1",
     author="code_xed",
     author_email="telegram @necromantik",
