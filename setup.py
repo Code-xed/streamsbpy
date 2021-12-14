@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="streamsb-py",
-    version="0.0.1",
+    version="1.0.0",
     author="code_xed",
     author_email="telegram @necromantik",
     description="An unoffcial API wrapper for streamsb.com",
@@ -16,7 +16,6 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires=">=3.6",
     install_requires=[
-        'aiohttp',
         'requests'
-    ]
+    ],
 )
