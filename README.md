@@ -16,7 +16,7 @@ ob.upload_url("https://drive.google.com/v1/testfile")
 ```
 # Copyright & License
 - Copyright (C) 2021 Code-xed <https://github.com/Code-xed>
-- Licensed under the terms of the [GNU Lesser General Public License v3 or later (LGPLv3+)](COPYING.lesser)
+- Licensed under the terms of the [MIT](COPYING.lesser)
 # Credits
 - streamsb.com
 - myself(🤔)
