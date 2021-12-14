@@ -24,7 +24,7 @@ SOFTWARE.
 
 
 __version__ = "1.0.0"
-__license__ = "MIT"
+__license__ = "GNU Lesser General Public License v3 or later (LGPLv3+)"
 __copyright__ = "Copyright © 2021 Code-xed <https://github.com/Code-xed>"
 
 
