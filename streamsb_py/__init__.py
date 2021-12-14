@@ -21,4 +21,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 '''
-from .streamsb import StreamSb
+
+
+__version__ = "1.0.0"
+__license__ = "MIT"
+__copyright__ = "Copyright © 2021 Code-xed <https://github.com/Code-xed>"
+
+
+from .streamsb import StreamSB
