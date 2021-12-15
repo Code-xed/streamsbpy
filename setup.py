@@ -10,7 +10,7 @@ setuptools.setup(
     url="https://github.com/code_xed/streamsb-py",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)",
         "Operating System :: OS Independent",
     ],
     packages=setuptools.find_packages(),
