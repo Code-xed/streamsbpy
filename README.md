@@ -3,7 +3,7 @@
 
 # Installation
 ```sh
-pip3 install streamsb
+pip3 install pysb
 ```
 # Usage
 ```python
