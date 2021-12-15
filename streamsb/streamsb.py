@@ -215,4 +215,4 @@ class StreamSB:
 		return self.exe((api, True))
 	
 __copyright__ = "Copyright (c) 2021 Code-xed"
-__license__ = "GNU General Public License V3"
+__license__ = "GNU Lesser General Public License v3 or later (LGPLv3+)"
