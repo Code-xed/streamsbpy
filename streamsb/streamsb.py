@@ -214,3 +214,5 @@ class StreamSB:
 		api = f"https://streamsb.net/embed-file_code.html?url_1={url_1}&sub_1={label_1}&caption_2={url_2}&sub_1={label_2}"
 		return self.exe((api, True))
 	
+__copyright__ = "Copyright (c) 2021 Code-xed"
+__license__ = "GNU General Public License V3"
