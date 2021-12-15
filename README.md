@@ -7,7 +7,7 @@ pip3 install streamsb
 ```
 # Usage
 ```python
-from streamsb import StreamSB
+from pysb import StreamSB
 key = "abc123" #API_KEY from streamsb.com
 ob = StreamSB(key)
 
