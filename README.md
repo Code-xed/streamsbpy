@@ -3,11 +3,11 @@
 
 # Installation
 ```sh
-pip3 install pysb
+pip3 install streamsbpy
 ```
 # Usage
 ```python
-from pysb import StreamSB
+from streamsbpy import StreamSB
 key = "abc123" #API_KEY from streamsb.com
 ob = StreamSB(key)
 

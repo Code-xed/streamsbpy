@@ -1,13 +1,13 @@
 import setuptools
 
 setuptools.setup(
-    name="streamsb-py",
+    name="streamsbpy",
     version="1.0.0",
     author="code_xed",
     author_email="prernanayak001@gmail.com",
     description="An unoffcial API wrapper for streamsb.com",
     license="GNU Lesser General Public License v3 or later (LGPLv3+)",
-    url="https://github.com/code_xed/streamsb-py",
+    url="https://github.com/code_xed/streamsbpy",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)",
