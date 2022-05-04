@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="streamsbpy",
-    version="1.0.0",
+    version="1.0.1",
     author="code_xed",
     author_email="prernanayak001@gmail.com",
     description="An unoffcial API wrapper for streamsb.com",
